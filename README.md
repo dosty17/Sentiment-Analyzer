@@ -103,4 +103,4 @@ Licensed under the [MIT License](LICENSE).
 
 ---
 
-> _Crafted with 💻, ☕, and passion by **Dosty Pshtiwan** & **Bander Sidiq**._
+![](screenshots/screenshot1.png)
