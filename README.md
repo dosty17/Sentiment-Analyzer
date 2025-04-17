@@ -103,4 +103,4 @@ Licensed under the [MIT License](LICENSE).
 
 ---
 
-![](screenshots/screenshot1.png)
+![](screenshots/screenshot8.png)
