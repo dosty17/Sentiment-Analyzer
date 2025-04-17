@@ -18,7 +18,15 @@ A powerful and beautifully designed web-based sentiment analysis tool using **Fa
 - ⚡ Built with FastAPI + Transformers + scikit-learn
 
 ---
+## 🌐 Live Preview / Demo
 
+✨ Try the Sentiment Analyzer live – no setup needed.
+
+🔗 [https://ai.fersaz.com/sentiment/](https://ai.fersaz.com/sentiment/)
+
+Type your text and get instant AI-powered sentiment results.
+
+---
 ## 🖼 Preview
 
 | Analyze Text Prediction Result CSV Upload |
@@ -99,8 +107,11 @@ Open `frontend/index.html` in your browser.
 
 ## 📄 License
 
-Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE.txt).
 
 ---
 
 ![](screenshots/screenshot8.png)
+
+---
+🧠[ai.fersaz.com](ai.fersaz.com)
