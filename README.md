@@ -3,6 +3,10 @@
 A powerful and beautifully designed web-based sentiment analysis tool using **FastAPI**, **Logistic Regression**, and **RoBERTa Transformers**. Analyze individual comments or entire CSV files with real-time feedback and visual insights.
 
 ---
+![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Transformer](https://img.shields.io/badge/HuggingFace-RoBERTa-yellow)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-blue)
 
 ## ✨ Features
 
