@@ -93,7 +93,7 @@ Open `frontend/index.html` in your browser.
 | 👤 Dosty Pshtiwan | 👤 Bander Sidiq |
 |------------------|----------------|
 | AI developer     | AI developer   |
-| [GitHub](https://github.com/dosty17) | [GitHub](https://github.com/bandersidiq) |
+| [GitHub](https://github.com/dosty17) | [GitHub](https://github.com/bander03) |
 
 ---
 
