@@ -23,10 +23,12 @@ A powerful and beautifully designed web-based sentiment analysis tool using **Fa
 
 | Analyze Text Prediction Result CSV Upload |
 |--------------|
-| ![](screenshots/screenshot1.png) | ![](screenshots/screenshot2.png) | ![](screenshots/screenshot3.png) |
+| ![](screenshots/screenshot1.png) |
+| ![](screenshots/screenshot2.png) |
+| ![](screenshots/screenshot3.png) |
 | ![](screenshots/screenshot4.png) |
 
-| Chart Display | Top Keywords | Responsive Layout |
+| Chart1 Display | Chart2 Display | Chart3 Display |
 |---------------|--------------|--------------------|
 | ![](screenshots/screenshot5.png) | ![](screenshots/screenshot5.png) | ![](screenshots/screenshot7.png) |
 
