@@ -114,4 +114,8 @@ Licensed under the [MIT License](LICENSE.txt).
 ![](screenshots/screenshot8.png)
 
 ---
-🧠[ai.fersaz.com](ai.fersaz.com)
+## 🧠 Explore More AI Tools
+
+🔗 **Visit Now:** [ai.fersaz.com](https://ai.fersaz.com)
+
+---
