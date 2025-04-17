@@ -4,6 +4,12 @@ A powerful and beautifully designed web-based sentiment analysis tool using **Fa
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Transformer](https://img.shields.io/badge/HuggingFace-RoBERTa-yellow)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-blue)
+
+
 ## ✨ Features
 
 - 🧠 AI Model Options: Logistic Regression (83%) or RoBERTa (99%)
