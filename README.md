@@ -22,7 +22,7 @@ A powerful and beautifully designed web-based sentiment analysis tool using **Fa
 
 ✨ Try the Sentiment Analyzer live – no setup needed.
 
-🔗 [https://ai.fersaz.com/sentiment/](https://ai.fersaz.com/sentiment/)
+🔗 [https://ai.fersaz.com/sentiment/](https://sentiment.fersaz.com)
 
 Type your text and get instant AI-powered sentiment results.
 
